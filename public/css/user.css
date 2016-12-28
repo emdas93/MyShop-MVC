@@ -1,0 +1,40 @@
+/* User LoginForm */
+div.loginForm ,div.loginForm input{
+    font-size: 1.3em;
+}
+div.loginForm table:last-child{
+    text-align: center;
+}
+
+/* User Register */
+div.registerForm{
+    width:100%;
+}
+div.registerForm table{
+    width:1000px;
+    font-size: 1.5em;
+}
+div.registerForm input{
+    font-size: 1.2em;
+}
+
+/* user Buyed */
+div.userBuyedList{
+
+}
+div.userItemList img{
+    width:300px;
+    height:300px;
+    float:left;
+}
+div.contentDetail{
+    font-size: 1.5em;
+}
+
+/* User Info */
+div.userInfo{
+    margin:20px;
+}
+div.userInfo table{
+    width:1000px;
+}

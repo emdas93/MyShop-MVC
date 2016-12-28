@@ -1,0 +1,83 @@
+div.itemBox{
+    float:left;
+    margin:15px;
+    text-align:center;
+}
+div.itemBox img{
+    width:300px;
+    height:300px;
+}
+div.itemPage{
+    font-size:1.3em;
+    text-align: center;
+    clear:both;
+}
+div.itemMenu{
+    text-align: right;
+}
+div.itemMenu a{
+    font-size:1.4em;
+}
+
+
+
+/* View */
+div.itemDetail{
+    font-size: 1.5em;
+    float:left;
+    margin:13px;
+}
+div.itemDetail input[type=number]{
+    font-size: 1.0em;
+    width:60px;
+}
+div.itemDetail input[type=submit]{
+    font-size: 1.0em;
+    padding:10px;
+}
+div.itemDetail td{
+    padding:10px;
+}
+
+div.itemSubTitle{
+    clear:both;
+    margin:30px;
+    padding:30px;
+    border-bottom:3px solid black;
+    font-size: 2.0em;
+}
+div.itemContent{
+    margin:60px;
+}
+
+div.itemDetailImg {
+    text-align: center;
+}
+div.itemDetailImg img{
+    width:960px;
+    height: auto;
+}
+div.itemContent{
+    font-size:1.5em;
+}
+div.orderInfo{
+    margin-left:60px;
+    float:left;
+    font-size:1.6em;
+}
+div.orderInfo td{
+    padding:8px;
+}
+div.orderInfo input{
+    font-size:1.6em;
+}
+div.orderInfo table tr:last-child{
+    text-align: right;
+}
+
+/* WRITE */
+div.itemWriteArea{
+    
+}
+div.itemWriteArea table td:{
+}
